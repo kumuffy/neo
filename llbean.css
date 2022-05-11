@@ -1,0 +1,320 @@
+.mediaViewInfo {
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: n_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#n_1920__1 {
+	position: absolute;
+	width: 1542px;
+	height: 6558px;
+	background-color: rgba(18,36,5,1);
+	overflow: hidden;
+	--web-view-name: 웹 1920 – 1;
+	--web-view-id: n_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#bk {
+	position: absolute;
+	width: 1542px;
+	height: 2159px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#intro {
+	position: absolute;
+	width: 1314px;
+	height: 910px;
+	left: 114px;
+	top: 119px;
+	overflow: visible;
+}
+#tree1 {
+	position: absolute;
+	width: 1542px;
+	height: 2160px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#bf {
+	position: absolute;
+	width: 405.633px;
+	height: 347.909px;
+	left: 1094.683px;
+	top: 2198.045px;
+	overflow: visible;
+}
+#History {
+	left: 605px;
+	top: 2393px;
+	position: absolute;
+	overflow: visible;
+	width: 334px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 99px;
+	color: rgba(245,240,230,1);
+}
+#since {
+	position: absolute;
+	width: 168px;
+	height: 48px;
+	left: 688px;
+	top: 2522px;
+	overflow: visible;
+}
+#n_00_BC_-_2010 {
+	left: 17px;
+	top: 16px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: YDIYMjO120-KSCpc-EUC-H;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(220,215,195,1);
+}
+#n_1 {
+	fill: transparent;
+	stroke: rgba(239,229,213,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_1 {
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#h1 {
+	position: absolute;
+	width: 448px;
+	height: 242px;
+	left: 307px;
+	top: 2622px;
+	overflow: visible;
+}
+#Kombucha_originated__in_Northe {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: YDIYMjO130-KSCpc-EUC-H;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(220,215,195,1);
+}
+#Kombucha_originated_in_Northea {
+	left: 0px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 449px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(201,198,183,1);
+}
+#h2 {
+	position: absolute;
+	width: 461px;
+	height: 290px;
+	left: 307px;
+	top: 2893px;
+	overflow: visible;
+}
+#Initially_kombucha_in_the__Uni {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: YDIYMjO130-KSCpc-EUC-H;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(220,215,195,1);
+}
+#Initially_kombucha_in_the_Unit {
+	left: 0px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 462px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(201,198,183,1);
+}
+#h3 {
+	position: absolute;
+	width: 466px;
+	height: 252px;
+	left: 793px;
+	top: 2731px;
+	overflow: visible;
+}
+#Kombucha_most_meaningfully__ga {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: YDIYMjO130-KSCpc-EUC-H;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(220,215,195,1);
+}
+#Sandor_Katz_a_leading_fermenta {
+	left: 0px;
+	top: 100px;
+	position: absolute;
+	overflow: visible;
+	width: 467px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(201,198,183,1);
+}
+#h4 {
+	position: absolute;
+	width: 510px;
+	height: 346px;
+	left: 793px;
+	top: 3028px;
+	overflow: visible;
+}
+#n_010_REGULATION_CRISIS {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: YDIYMjO130-KSCpc-EUC-H;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(220,215,195,1);
+}
+#Through_the_early_2000s_kombuc {
+	left: 0px;
+	top: 42px;
+	position: absolute;
+	overflow: visible;
+	width: 511px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(201,198,183,1);
+}
+#cloud1 {
+	position: absolute;
+	width: 1542px;
+	height: 2195px;
+	left: 0px;
+	top: 3279px;
+	overflow: visible;
+}
+#bottle {
+	position: absolute;
+	width: 284px;
+	height: 891px;
+	left: 217px;
+	top: 4033px;
+	overflow: visible;
+}
+#leaf {
+	opacity: 0.75;
+	position: absolute;
+	width: 1542px;
+	height: 1077px;
+	left: 0px;
+	top: 5481px;
+	overflow: visible;
+}
+#Taste {
+	left: 816px;
+	top: 4227px;
+	position: absolute;
+	overflow: visible;
+	width: 254px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 99px;
+	color: rgba(18,36,5,1);
+}
+#cloud4 {
+	position: absolute;
+	width: 1542px;
+	height: 2195px;
+	left: 0px;
+	top: 3279px;
+	overflow: visible;
+}
+#Fermenting_only_with_premium_O {
+	left: 566px;
+	top: 4381px;
+	position: absolute;
+	overflow: visible;
+	width: 753px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Pretendard;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	color: rgba(28,51,12,1);
+}
